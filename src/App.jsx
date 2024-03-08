@@ -3,7 +3,7 @@
 // import viteLogo from '/vite.svg'
 
 import "./App.css";
-import Profile from "./componens/Profile";
+import Profile from "./componens/Profile/Profile";
 import userData from "./userData.json";
 
 const App = () => {
